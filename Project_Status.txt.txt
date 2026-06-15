@@ -1,0 +1,38 @@
+TODP PROJECT STATUS
+
+PRD V1: Frozen
+ADD V1: Frozen
+DDD V1: Frozen
+
+Current Stage:
+SDD V1
+
+Next Step:
+SDD Section 1
+
+Tech Stack:
+React
+FastAPI
+PostgreSQL
+pgvector
+Redis
+Prometheus
+Grafana
+
+Discovery Hierarchy:
+Institution
+Local
+District
+State
+National
+International
+
+Ranking Formula:
+Money Cost
++
+Time Cost
++
+Distance Cost
+
+Status Date:
+2026-06-14
